@@ -1,6 +1,6 @@
 @import 
-url(https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap);
-
+url(https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap); 
+/* czy taka metoda na ładowanie czcionek jest lepsza od wpisywania linku do kodu html? */
 :root{
 --card-BG: hsl(0, 0%, 100%);
 --main-BG: hsl(212, 45%, 89%);
